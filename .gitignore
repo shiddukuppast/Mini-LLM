@@ -1,0 +1,4 @@
+.venv
+__pycache__
+data/
+mini_gpt_checkpoint.pth
